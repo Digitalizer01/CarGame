@@ -27,6 +27,7 @@ El juego es CarGame.
 - **Uso de JSON para guardar información:** Se utilizó JSON para almacenar datos del juego.
 - **Añadir sonido y efectos de sonido (FX):** Se agregaron efectos de sonido para mejorar la experiencia del juego.
 - **Leer los datos del fantasma de un archivo de texto usando Resources de Unity:** Se implementó la lectura de datos del fantasma desde un archivo de texto utilizando la funcionalidad Resources de Unity.
+- **Repeticiones usando Cinemachine:** Se han agregado diversas cámaras en el modo de repetición usando Cinemachine.
 
 ## Material utilizado
 
