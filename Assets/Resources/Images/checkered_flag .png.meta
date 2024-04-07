@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: fd478f625f9b9e244b8b48a74ccf6bec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: checkered_flag _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daacd23f8fb81f943bf263a903168327
+      internalID: -354506170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad6c8b4502b1c34ea1cbb0d54f0035f
+      internalID: 1757805906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd25e4114aa01204c92f5e9177cf64e0
+      internalID: 1224477404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadb57cf3e6aab345be3cc9c285c6f86
+      internalID: 1216185132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6abe938a3856349b739eecfc286eb9
+      internalID: 349820074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a72bd58ed19247b9927b2955ddcf1
+      internalID: -179196678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2028
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef588032448db419704313e4636493
+      internalID: -101932252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f115f6f72bfbf4cb936b3b50f2899a
+      internalID: -1733789679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80f72fc53f14e48927e120d06f4615
+      internalID: 1711076060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c7bcff5e0beb4d93eb05a8a456f8c
+      internalID: 1687985739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _10
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94295617f843ec047b1bd7c21b2c5bf7
+      internalID: 1475033392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ff6b87ada0c094b821eb3bc8f6c845
+      internalID: -1644084376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9576176b007b4b4eb3a32cb076cfbbf
+      internalID: 376044606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _13
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1690
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c921db4e015cad46bb30471a65a5625
+      internalID: -724315488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb3c302613648944af21744c2da6a71
+      internalID: 453635771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85147bb68455761429462e808e600a65
+      internalID: 412988050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97461321e88e1c0438bf558a6b17fca0
+      internalID: -1245731958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35957ea65763b254cb1fe938f0a58ac0
+      internalID: -1057983967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782771a660f0629499660e9a1b5cfdbc
+      internalID: 43386769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d4b6a11a27515419d9b823a64d40fb
+      internalID: -1822477228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1352
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c651bc1f8c6ca84ca2480a154aaef50
+      internalID: 199513019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae82229efbb8a4abee0f0d796bf81c
+      internalID: -336421330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda0747606434ae4791daddb20f03c9f
+      internalID: -125470314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d037e1ba76bc42bb8e68c24c3a16a
+      internalID: 1714007994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915e3a7d05a95fa439ebfc9391bca484
+      internalID: -1977973629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _25
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac8368b7512704c8d1787acd89c5b5
+      internalID: 477784548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _26
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338b75dc938339642b13498ea2c273a8
+      internalID: 2056125630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1014
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1919918a58124c8a937089be4cdfc
+      internalID: 83456130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b3090bcdc9654eae5a03100c0c694
+      internalID: -784052208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1e5c839fc73d4ea9465f180c9a072
+      internalID: 1607947878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4443bec1d1202bb4fa5295b8d2155397
+      internalID: 599206943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e382f36949b0364b8633fabdf90b07a
+      internalID: 1414406011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b6b30488dabc4282c7ca2ceb9d02d
+      internalID: 1762149578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65900dadf79e30c468b1c57c7dce5fc6
+      internalID: 472902392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _34
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 676
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e564e93f81d7894a8c541a3825c1484
+      internalID: 54375832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a78b21e08ef964abe56b5fa6473133
+      internalID: -1201093227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7bd0e216a44254590cd6f91f7172b1
+      internalID: 1224145735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c091deced899d149aaea55f98dab942
+      internalID: 162205666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5aa23022fbc7542b6e5c7099418d15
+      internalID: 447774992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a919e8f6e9ea94bb99e0e5c0849eb2
+      internalID: 380880006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _40
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441ae051d4bc7aa4aa0c3a128df19550
+      internalID: -1196736037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _41
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 338
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e08f1e2ef9e2044a9ba2ff7b930bd2
+      internalID: -284694917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a33976858c7414d85ab42ecbfec55d
+      internalID: 1777778888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5230c94fa1d436948b9e2845508df38a
+      internalID: 973142238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b560f8adc013b44d998a5f88c86ec3e
+      internalID: -1405548607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10e642d3b3864a4fa195e2acb82aac8
+      internalID: 1316892902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de26aa7d23ad7344592203439dbb47a7
+      internalID: 1459473851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c91bfb355c784393e54e7e5ac5281
+      internalID: -201813256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: checkered_flag _48
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 600
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43665966ca20724997228fe912b8add
+      internalID: -2093529268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0bdbc97c96d6c934b9dc9be1566c28f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      checkered_flag _0: -354506170
+      checkered_flag _1: 1757805906
+      checkered_flag _10: 1475033392
+      checkered_flag _11: -1644084376
+      checkered_flag _12: 376044606
+      checkered_flag _13: -724315488
+      checkered_flag _14: 453635771
+      checkered_flag _15: 412988050
+      checkered_flag _16: -1245731958
+      checkered_flag _17: -1057983967
+      checkered_flag _18: 43386769
+      checkered_flag _19: -1822477228
+      checkered_flag _2: 1224477404
+      checkered_flag _20: 199513019
+      checkered_flag _21: -336421330
+      checkered_flag _22: -125470314
+      checkered_flag _23: 1714007994
+      checkered_flag _24: -1977973629
+      checkered_flag _25: 477784548
+      checkered_flag _26: 2056125630
+      checkered_flag _27: 83456130
+      checkered_flag _28: -784052208
+      checkered_flag _29: 1607947878
+      checkered_flag _3: 1216185132
+      checkered_flag _30: 599206943
+      checkered_flag _31: 1414406011
+      checkered_flag _32: 1762149578
+      checkered_flag _33: 472902392
+      checkered_flag _34: 54375832
+      checkered_flag _35: -1201093227
+      checkered_flag _36: 1224145735
+      checkered_flag _37: 162205666
+      checkered_flag _38: 447774992
+      checkered_flag _39: 380880006
+      checkered_flag _4: 349820074
+      checkered_flag _40: -1196736037
+      checkered_flag _41: -284694917
+      checkered_flag _42: 1777778888
+      checkered_flag _43: 973142238
+      checkered_flag _44: -1405548607
+      checkered_flag _45: 1316892902
+      checkered_flag _46: 1459473851
+      checkered_flag _47: -201813256
+      checkered_flag _48: -2093529268
+      checkered_flag _5: -179196678
+      checkered_flag _6: -101932252
+      checkered_flag _7: -1733789679
+      checkered_flag _8: 1711076060
+      checkered_flag _9: 1687985739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
