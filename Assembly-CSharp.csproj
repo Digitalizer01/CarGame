@@ -90,8 +90,8 @@
     <Compile Include="Assets\Imported Assets\Standard Assets\Utility\LerpControlledBob.cs" />
     <Compile Include="Assets\Imported Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
     <Compile Include="Assets\Imported Assets\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
-    <Compile Include="Assets\Imported Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
     <Compile Include="Assets\Scripts\MenuManager.cs" />
+    <Compile Include="Assets\Imported Assets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
     <Compile Include="Assets\Imported Assets\Standard Assets\Utility\TimedObjectActivator.cs" />
     <Compile Include="Assets\Imported Assets\Standard Assets\Vehicles\Aircraft\Scripts\LandingGear.cs" />
     <Compile Include="Assets\Imported Assets\Standard Assets\Utility\AutoMobileShaderSwitch.cs" />
