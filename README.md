@@ -15,6 +15,8 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 Los controles del juego son simples:
 
+- Ratón para desplazarse por los menús.
+- Tecla Esc para pausar.
 - Flechas direccionales para moverse:
   - Arriba: Correr.
   - Abajo: Frenar.
