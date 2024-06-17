@@ -83,7 +83,7 @@ public class MenuManager : MonoBehaviour
         if (!loadingScene)
         {
             loadingScene = true;
-            SceneManager.LoadScene("Game");
+            SceneManager.LoadScene("GameCar");
         }
     }
 
