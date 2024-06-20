@@ -1,37 +1,37 @@
-# CarGame - Juego de Carreras
+# CarGame - Racing Game
 
-Este proyecto es un juego de carreras desarrollado como parte de una evaluación. El juego se enfoca en un modo Contrarreloj (Time Trial), donde el jugador compite contra su propio récord en un circuito montañoso con partes urbanas.
+This project is a racing game developed as part of an evaluation. The game focuses on a Time Trial mode, where the player competes against their own record on a mountainous circuit with urban sections.
 
-## Ejecución del Proyecto
+## Running the Project
 
-Para ejecutar el proyecto, sigue estos pasos:
+To run the project, follow these steps:
 
-1. Clona el repositorio desde GitLab.
-2. Abre el proyecto en Unity.
-3. Asegúrate de tener todas las dependencias y configuraciones correctas.
-4. Ejecuta el juego desde Unity o compila el proyecto y ejecuta el archivo ejecutable.
+1. Clone the repository from GitLab.
+2. Open the project in Unity.
+3. Ensure all dependencies and configurations are correct.
+4. Run the game from Unity or compile the project and execute the executable file.
 
-## Controles del Juego
+## Game Controls
 
-Los controles del juego son simples:
+The game controls are simple:
 
-- Ratón para desplazarse por los menús.
-- Tecla Esc para pausar.
-- Flechas direccionales para moverse:
-  - Arriba: Correr.
-  - Abajo: Frenar.
-  - Izquierda/Derecha: Moverse lateralmente.
+- Mouse to navigate through menus.
+- Esc key to pause.
+- Arrow keys to move:
+  - Up: Accelerate.
+  - Down: Brake.
+  - Left/Right: Steer left/right.
 
-El juego es CarGame.
+The game is CarGame.
 
-## Puntos Opcionales Implementados
+## Optional Features Implemented
 
-- **Uso de JSON para guardar información:** Se utilizó JSON para almacenar datos del juego.
-- **Añadir sonido y efectos de sonido (FX):** Se agregaron efectos de sonido para mejorar la experiencia del juego.
-- **Leer los datos del fantasma de un archivo de texto usando Resources de Unity:** Se implementó la lectura de datos del fantasma desde un archivo de texto utilizando la funcionalidad Resources de Unity.
-- **Repeticiones usando Cinemachine:** Se han agregado diversas cámaras en el modo de repetición usando Cinemachine.
+- **Using JSON to save information:** JSON was used to store game data.
+- **Adding sound and sound effects (FX):** Sound effects were added to enhance the game experience.
+- **Reading ghost data from a text file using Unity Resources:** Implemented reading ghost data from a text file using Unity's Resources functionality.
+- **Replays using Cinemachine:** Various cameras were added in replay mode using Cinemachine.
 
-## Material utilizado
+## Material Used
 
-- Efectos de sonido de Gran Turismo 2 y Gran Turismo 3.
-- Canciones de Gran Turismo 2, Gran Turismo 3 y Mario Kart Wii.
+- Sound effects from Gran Turismo 2 and Gran Turismo 3.
+- Songs from Gran Turismo 2, Gran Turismo 3, and Mario Kart Wii.
